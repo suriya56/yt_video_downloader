@@ -1,6 +1,3 @@
-Here's a **detailed yet beginner-friendly** `README.md` for your YouTube Downloader project with clear sections and visual cues:
-
----
 
 # 🎬 YouTube Video Downloader Pro
 
